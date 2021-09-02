@@ -1,5 +1,5 @@
 # Calculator
-a calculator that can solve simple mathematical problems
+A calculator that can solve simple mathematical problems i.e Addition , Subtraction , Division and Multiplication And have clear button that shows results of past equation
 
 # screenshot
 ![image](https://user-images.githubusercontent.com/81671650/131868388-56b0f8ff-14a9-4a94-9d55-13cea533a667.png)
